@@ -1,4 +1,4 @@
-first line first line first line first line first line first line first line first line first line first line 
+first line conflict line first line first line first line first line first line first line first line first line 
 third line third line third line third line third line third line third line third line third line third line 
 fourth line fourth line fourth line fourth line fourth line fourth line fourth line fourth line fourth line 
 fifth line fifth line fifth line fifth line fifth line fifth line fifth line fifth line fifth line fifth line
